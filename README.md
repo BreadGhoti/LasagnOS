@@ -1,2 +1,2 @@
 # LasagnOS
-Lasagna based operation system for my lasagna laptop.
+Lasagna based operating system for my lasagna laptop.
